@@ -18,6 +18,6 @@ public class InfluxDBStorageConstants {
 
 	public static final String URL = "http://localhost:8086";
 	public static final String USER_NAME = "openhab";
-    public static final String PASSWORD = "password";
+    public static final String PASSWORD = "openhab";
     public static final String DATABASE = "openhab";
 }

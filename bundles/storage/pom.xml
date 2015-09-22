@@ -16,6 +16,7 @@
   <packaging>pom</packaging>
 
   <modules>
+  	<module>org.eclipse.smarthome.storage.influxdb</module>
     <module>org.eclipse.smarthome.storage.mapdb</module>
     <module>org.eclipse.smarthome.storage.mapdb.test</module>
   </modules>
